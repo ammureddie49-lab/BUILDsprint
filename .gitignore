@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.tracemind.sqlite3*
+*.sqlite3*
+.env
+.env.*
+!.env.example
+runs/mine/
+runs/demo/
